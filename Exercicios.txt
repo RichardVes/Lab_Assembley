@@ -1,4 +1,0 @@
-Exercicios assembly
-1) faça uma soma entre 2 valores na memora
-2) faça uma soma com 2 valores no registrador
-3) De o resultado dessa operação ((((10+2)-6)/2)*4) e mostre o resultado em Decimais.
